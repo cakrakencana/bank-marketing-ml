@@ -1,4 +1,4 @@
-# Bank Marketing Campaign — Machine Learning Classification
+# Machine Learning Classifier for High-Precision Customer Targeting in Banking
 
 ## Overview
 This project builds a machine learning model to predict customer subscription to a term deposit product. The primary objective is to improve outbound marketing efficiency by identifying high-propensity customers and reducing unnecessary call costs. The model applies a precision-focused strategy to minimize false positives and optimize operational spending.
